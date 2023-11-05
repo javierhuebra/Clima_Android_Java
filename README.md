@@ -5,8 +5,8 @@
 ### Capturas:
 
 <div>
-    <img src="./pantalla1.jpeg" align="center">
-    <img src="./pantalla2.jpeg" align="center">
+    <img src="./pantalla1.jpeg" width="100" align="center">
+    <img src="./pantalla2.jpeg" width="100" align="center">
 </div>
 
 <img src="./cap1.png" align="center">
