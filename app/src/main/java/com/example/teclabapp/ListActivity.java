@@ -30,9 +30,14 @@ public class ListActivity extends AppCompatActivity {
         ciudades.add("Río Negro");
         ciudades.add("La Pampa");
 
-        ArrayAdapter arrayAdapter = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, ciudades);
+        //ArrayAdapter arrayAdapter = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, ciudades);
 
-        listView.setAdapter(arrayAdapter);
+        //listView.setAdapter(arrayAdapter);
+
+        CustomAdapter adapter = new CustomAdapter(this, ciudades);
+
+        listView.setAdapter(adapter);
+
 
     }
 }
