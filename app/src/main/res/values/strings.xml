@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TeclabApp</string>
+
+    <string name="saludo">¡Bienvenidos a la aplicación del Clima!</string>
+    <string name="pronostico">Pronóstico Actual</string>
+    <string name="ciudades">Listado de Ciudades</string>
+</resources>
