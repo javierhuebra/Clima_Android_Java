@@ -15,7 +15,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void listarCiudades(View view){
-        Intent miIntent = new Intent(this, ListActivity.class);
-        startActivity(miIntent);
+        Intent myIntent = new Intent(this, ListActivity.class);
+        startActivity(myIntent);
     }
+
+    public void irDetalle(View view){
+        Intent myIntent = new Intent(this, DetailActivity.class);
+        myIntent.putExtra("nombreCiudad", "Buenos Aires");
+        startActivity(myIntent);
+    }
+
 }

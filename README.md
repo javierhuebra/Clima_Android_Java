@@ -2,7 +2,14 @@
 
 ## Desarrollada en Java con ide Android Studio
 
-### Capturas:
+
+### API 3
+
+<img src="./cap4.png" align="center">
+<img src="./cap5.png" align="center">
+
+
+### API 2
 
 <div>
     <img src="./pantalla1.jpeg" width="300" align="center">
