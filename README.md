@@ -3,6 +3,11 @@
 ## Desarrollada en Java con ide Android Studio
 https://api.openweathermap.org/data/2.5/weather?lat=-38.7196&lon=-62.2724&appid=ff9a0c998f50abbc31fe4b4aa7492dcf&units=metric&lang=es
 
+### API 4
+
+<img src="./capAPI4.png" align="center">
+
+
 ### API 3
 
 <img src="./cap4.png" align="center">
